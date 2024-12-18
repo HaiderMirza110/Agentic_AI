@@ -1,0 +1,1 @@
+Agentic AI is a project showcasing the development of autonomous AI agents capable of reasoning, decision-making, and performing tasks. This repository includes Python-based implementations, integration with APIs, and real-world examples to explore the potential of agent-driven AI systems.
