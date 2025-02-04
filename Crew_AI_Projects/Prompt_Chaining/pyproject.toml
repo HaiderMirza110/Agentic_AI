@@ -1,0 +1,18 @@
+[project]
+name = "project2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=0.100.1",
+    "litellm>=1.59.8",
+]
+
+[project.scripts]
+project2 = "project2:main"
+pro2 = "project2.prompt:career"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
